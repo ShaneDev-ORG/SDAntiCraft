@@ -1,2 +1,2 @@
 # SDAntiCraft
-Block specified crafting recopies with ease! 
+Block specified crafting recipes with ease! 
