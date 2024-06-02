@@ -1,0 +1,4 @@
+name: SDAntiCraft
+version: '${project.version}'
+main: co.shanedev.sdanticraft.SDAntiCraft
+api-version: '1.20'
