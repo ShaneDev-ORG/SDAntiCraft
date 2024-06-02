@@ -12,6 +12,7 @@ Prefix: "&f&lAntiCraft &8&l» "
 #Message to send when a player tries crafting a blocked item
 Blocked-Message: '&c&lThis recipe is blocked!'
 
-#Blocked Recipes
+#Blocked Recipes (ex. DIAMOND_SWORD) - Use 'ALL-RECIPES' to block all crafting
 Blocked-Recipes:
   - MATERIAL
+  - MATERIAL2
